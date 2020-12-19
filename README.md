@@ -1,1 +1,1 @@
-# Kaggle-Four-Shapes-Classification-Challenge-
+# Kaggle Four Shapes Classification Challenge
